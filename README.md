@@ -1,12 +1,13 @@
 ## CPB: Citrus Pest Benchmark
 
-This [work](https://arxiv.org/pdf/2004.11252.pdf) was accepted by The Agriculture-Vision Workshop in CVPR 2029.
+This [work](https://arxiv.org/pdf/2004.11252.pdf) was accepted by The Agriculture-Vision Workshop in CVPR 2020.
 
 We created a benchmark containing images divided into mite and negative classes. The images were collected via a mobile device coupled with a lens magnifier. In the acquisition process, we employa Samsung Galaxy A5 with a 13 MP camera coupled witha 60×magnifier, equipped with a white LED lighting andultraviolet LED.
 
 To  generate  the Citrus  Pest  Database,  the  mite  images were captured at a Farm, located in the city of Rio Claro, São Paulo State, in Brazil.  The data acquisition period  was  from  March  2018  to  January  2019.   Guided  by MIP inspectors, we carried out scheduled inspections in the production unit areas, which contain up to 1000 citrus trees divided into groups arranged in lines. The inspectors chose samples from the crop lines, not near the border, to analyzethe fruits, new germinations and stem. Then, they moved onto the next thirtieth plant individuals.  We used the samples examined by the inspectors to obtain the mite images.  After completing a crop sector line, every three planting lines were examined.
 
 We  partitioned  the  image  collection  into  three  groups, referred to as training,  validation and test,  containing approximately  60%,  20%,  and  20%  of  the  mites  from  each class totaling 6380, 2239 and 2197 images, respectively.
+
 
 
 ![Mite Images](https://github.com/edsonbollis/Weakly-Supervised-Learning-Citrus-Pest-Benchmark/blob/master/mites.png)
