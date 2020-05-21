@@ -10,9 +10,8 @@ To  generate  the Citrus  Pest  Database,  the  mite  images were captured at a 
 We  partitioned  the  image  collection  into  three  groups, referred to as training,  validation and test,  containing approximately  60%,  20%,  and  20%  of  the  mites  from  each class totaling 6380, 2239 and 2197 images, respectively.
 
 
-<div style="width:50%"> 
-    ![Mite Images](https://github.com/edsonbollis/Citrus-Pest-Benchmark/blob/master/mites.png)
-</div>
+<img src="https://github.com/edsonbollis/Citrus-Pest-Benchmark/blob/master/mites.png" width="200" />
+
 
 
 The training, validation and test sets are available in CSV files inside the database with the names pests_train_original.csv, pests_validation_original.csv and pests_test_original.csv. You can use the dataset with the folloing python code:
