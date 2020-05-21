@@ -1,6 +1,7 @@
 ## CPB: Citrus Pest Benchmark
 
-This [work](https://arxiv.org/pdf/2004.11252.pdf) was accepted by The Agriculture-Vision Workshop in CVPR 2020.
+
+This [work](https://arxiv.org/pdf/2004.11252.pdf) was accepted to The 1st International Workshop on Agriculture-Vision Workshop - CVPR 2020.
 
 We created a benchmark containing images divided into mite and negative classes. The images were collected via a mobile device coupled with a lens magnifier. In the acquisition process, we employa Samsung Galaxy A5 with a 13 MP camera coupled witha 60×magnifier, equipped with a white LED lighting andultraviolet LED.
 
@@ -8,9 +9,7 @@ To  generate  the Citrus  Pest  Database,  the  mite  images were captured at a 
 
 We  partitioned  the  image  collection  into  three  groups, referred to as training,  validation and test,  containing approximately  60%,  20%,  and  20%  of  the  mites  from  each class totaling 6380, 2239 and 2197 images, respectively.
 
-
-
-![Mite Images](https://github.com/edsonbollis/Weakly-Supervised-Learning-Citrus-Pest-Benchmark/blob/master/mites.png)
+![Mite Images](https://github.com/edsonbollis/Citrus-Pest-Benchmark/blob/master/mites.png)
 
 
 The training, validation and test sets are available in CSV files inside the database with the names pests_train_original.csv, pests_validation_original.csv and pests_test_original.csv. You can use the dataset with the folloing python code:
@@ -40,6 +39,9 @@ def load_data(directory=y_csv):
             count += 1
         print("Images found:", count, " Images remaining:", len(load['images']) - count)
     return load
+
+
+See also the code for our [Weakly Supervised Learning Method](https://arxiv.org/pdf/2004.11252.pdf)
 
 
 ### Additional Information
