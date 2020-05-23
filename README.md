@@ -48,8 +48,6 @@ See the code for our Weakly Supervised Learning Method [here](https://arxiv.org/
 
 
 ### Citation
----
-
 ```
 @inproceedings{bollis2020weakly,
   title     = {Weakly Supervised Learning Guided by Activation Mapping Applied to a Novel Citrus Pest Benchmark},
