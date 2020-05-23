@@ -1,6 +1,6 @@
 ## Citrus Pest Benchmark (CPB)
 
-This project contains the data described in 'Weakly supervised learning guided by activation mapping applied to a novel citrus pest benchmark.' This [work](https://arxiv.org/pdf/2004.11252.pdf) was published in Agriculture-Vision Workshop @ CVPR 2020.
+This project contains the data described in 'Weakly supervised learning guided by activation mapping applied to a novel citrus pest benchmark.' This [work](https://arxiv.org/pdf/2004.11252.pdf) was published in [Agriculture-Vision Workshop](https://github.com/SHI-Labs/Agriculture-Vision) @ CVPR 2020.
 
 We created a benchmark containing images divided into mite and negative classes. The images were collected via a mobile device coupled with a lens magnifier. In the acquisition process, we employ a Samsung Galaxy A5 with a 13 MP camera coupled witha 60× magnifier, equipped with a white LED lighting and ultraviolet LED.
 
