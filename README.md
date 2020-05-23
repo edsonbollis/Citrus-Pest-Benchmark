@@ -2,7 +2,7 @@
 
 This project contains the data described in 'Weakly supervised learning guided by activation mapping applied to a novel citrus pest benchmark.' This [work](https://arxiv.org/pdf/2004.11252.pdf) was published in [Agriculture-Vision Workshop](https://github.com/SHI-Labs/Agriculture-Vision) @ CVPR 2020.
 
-We created a benchmark containing images divided into mite and negative classes. The images were collected via a mobile device coupled with a lens magnifier. In the acquisition process, we employ a Samsung Galaxy A5 with a 13 MP camera coupled witha 60× magnifier, equipped with a white LED lighting and ultraviolet LED.
+We created a benchmark containing images divided into mite and negative classes. The images were collected via a mobile device coupled with a lens magnifier. In the acquisition process, we employ a Samsung Galaxy A5 with a 13 MP camera coupled with a 60× magnifier, equipped with a white LED lighting and ultraviolet LED.
 
 To generate our citrus pest database, the mite images were captured at São José Farm, located in the city of Rio Claro, São Paulo State, in Brazil. The data acquisition period was from March 2018 to January 2019. Guided by MIP inspectors, we carried out scheduled inspections in the production unit areas, which contain up to 1000 citrus trees divided into groups arranged in lines. The inspectors chose samples from the crop lines, not near the border, to analyze the fruits, new germinations and stem. Then, they moved on to the next thirtieth plant individuals. We used the samples examined by the inspectors to obtain the mite images. After completing a crop sector line, every three planting lines were examined.
 
