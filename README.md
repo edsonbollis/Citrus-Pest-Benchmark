@@ -44,16 +44,19 @@ def load_data(directory=y_csv):
     return load
 ```
 
-See  the code for our Weakly Supervised Learning Method [here](https://arxiv.org/pdf/2004.11252.pdf).
+See the code for our Weakly Supervised Learning Method [here](https://arxiv.org/pdf/2004.11252.pdf).
 
 
 ### Citation
+
+___
+
 ```
 @inproceedings{bollis2020weakly,
-  title={Weakly Supervised Learning Guided by Activation Mapping Applied to a Novel Citrus Pest Benchmark},
-  author={Edson Bollis and Helio Pedrini and Sandra Avila},
-  journal={{IEEE} Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
-  year={2020}
+  title     = {Weakly Supervised Learning Guided by Activation Mapping Applied to a Novel Citrus Pest Benchmark},
+  author    = {Edson Bollis and Helio Pedrini and Sandra Avila},
+  booktitle = {{IEEE} Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
+  year      = {2020}
 }
 ```
 
