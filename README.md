@@ -55,7 +55,7 @@ See the [code](https://github.com/edsonbollis/Weakly-Supervised-Learning-Citrus-
   title     = {{Weakly Supervised Learning Guided by Activation Mapping Applied to a Novel Citrus Pest Benchmark}},
   author    = {Edson Bollis and Helio Pedrini and Sandra Avila},
   booktitle = {IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
-  address = {Seattle, WA, USA},
+  address   = {Seattle, WA, USA},
   year      = {2020}
 }
 ```
