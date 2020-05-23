@@ -16,7 +16,7 @@ Although we collected the images with the aid of human inspectors, the errors in
 <img src="https://github.com/edsonbollis/Citrus-Pest-Benchmark/blob/master/mites.png" width="60%" />
 </p>
 
-The training, validation, and test sets are available in CSV files inside the path of the dataset with the names `pests_train_original.csv`, `pests_validation_original.csv`, and `pests_test_original.csv`, respectively. You can use the CPB sets with the following python code:
+The training, validation and testing sets are available in CSV files inside the dataset path with the names `pests_train_original.csv`, `pests_validation_original.csv`, and `pests_test_original.csv`, respectively. You can use the CPB sets with the following Python code:
 
 ```python
 
@@ -52,9 +52,10 @@ See the [code](https://github.com/edsonbollis/Weakly-Supervised-Learning-Citrus-
 ### Citation
 ```
 @inproceedings{bollis2020weakly,
-  title     = {Weakly Supervised Learning Guided by Activation Mapping Applied to a Novel Citrus Pest Benchmark},
+  title     = {{Weakly Supervised Learning Guided by Activation Mapping Applied to a Novel Citrus Pest Benchmark}},
   author    = {Edson Bollis and Helio Pedrini and Sandra Avila},
-  booktitle = {{IEEE} Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
+  booktitle = {IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
+  address = {Seattle, WA, USA},
   year      = {2020}
 }
 ```
