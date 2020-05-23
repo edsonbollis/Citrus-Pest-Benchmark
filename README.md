@@ -10,7 +10,7 @@ The dataset consists of 10,816 multi-class images categorized into seven classes
 
 We partitioned the image collection into three groups, referred to as training, validation and test, containing approximately 60%, 20%, and 20% of the mites from each class totaling 6380, 2239 and 2197 images, respectively.
 
-Although we collected the images with the aid of human inspectors, the errors inter-classes are significant due to the size of the mites. The inspectors are currently revising the multi-class labels and, for this reason, we are publishing images of 1,200×1,200 pixels for the negative and positive classes, more precisely, 7,966 mite images and 3,455 negative images.
+Although we collected the images with the aid of human inspectors, the errors inter-classes are significant due to the size of the mites. The inspectors are currently revising the multi-class labels and, for this reason, we are publishing images of 1,200×1,200 pixels for the negative and positive classes, more precisely,  positive images 7,361 and 3,455 negative images.
 
 <p align="center">
 <img src="https://github.com/edsonbollis/Citrus-Pest-Benchmark/blob/master/mites.png" width="70%" />
