@@ -13,7 +13,7 @@ We partitioned the image collection into three groups, referred to as training, 
 Although we collected the images with the aid of human inspectors, the errors inter-classes are significant due to the size of the mites. The inspectors are currently revising the multi-class labels and, for this reason, we are publishing images of 1,200×1,200 pixels for the negative and positive classes, more precisely,  positive images 7,361 and 3,455 negative images.
 
 <p align="center">
-<img src="https://github.com/edsonbollis/Citrus-Pest-Benchmark/blob/master/mites.png" width="70%" />
+<img src="https://github.com/edsonbollis/Citrus-Pest-Benchmark/blob/master/mites.png" width="60%" />
 </p>
 
 The training, validation, and test sets are available in CSV files inside the path of the dataset with the names `pests_train_original.csv`, `pests_validation_original.csv`, and `pests_test_original.csv`, respectively. You can use the CPB sets with the following python code:
