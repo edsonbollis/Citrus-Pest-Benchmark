@@ -44,7 +44,7 @@ def load_data(directory=y_csv):
     return load
 ```
 
-See the code for our Weakly Supervised Learning Method [here](https://arxiv.org/pdf/2004.11252.pdf).
+See the [code](https://github.com/edsonbollis/Weakly-Supervised-Learning-Citrus-Pest-Benchmark) for our Weakly Supervised Learning Method.
 
 
 ### Citation
