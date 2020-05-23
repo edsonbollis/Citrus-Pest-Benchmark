@@ -48,8 +48,7 @@ See the code for our Weakly Supervised Learning Method [here](https://arxiv.org/
 
 
 ### Citation
-
-___
+---
 
 ```
 @inproceedings{bollis2020weakly,
