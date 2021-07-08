@@ -30,7 +30,7 @@ labels= ['Negative', 'Mite']
 
 def load_data(directory=y_csv):
     load = pd.read_csv(directory,delim_whitespace=False,header=1,delimiter=',',
-                       names = ['images', labels[0], labels[1]])
+                       names = ['images', labels[1], labels[0]])
 
     class_vet = [labels[i] for i in load['Mite']]
 
