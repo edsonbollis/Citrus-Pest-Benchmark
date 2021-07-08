@@ -42,7 +42,7 @@ def load_data(directory=y_csv):
     for i in load['images']:
         if os.path.isfile(folder + i):
             count += 1
-        print("Images found:", count, " Images remaining:", len(load['images']) - count)
+    print("Images found:", count, " Images remaining:", len(load['images']) - count)
     return load
 ```
 
