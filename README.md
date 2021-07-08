@@ -49,6 +49,13 @@ def load_data(directory=y_csv):
 See the [code](https://github.com/edsonbollis/Weakly-Supervised-Learning-Citrus-Pest-Benchmark) for our Weakly Supervised Learning Method.
 
 
+<p align="center">
+    <img src="https://github.com/edsonbollis/Citrus-Pest-Benchmark/blob/master/cpb_train_6380_images_128x128_compress.jpg" width="30%" />
+    <img src="https://github.com/edsonbollis/Citrus-Pest-Benchmark/blob/master/cpb_validation_2239_images_128x128_compress.jpg" width="30%" />
+    <img src="https://github.com/edsonbollis/Citrus-Pest-Benchmark/blob/master/cpb_test_2197_images_128x128_compress.jpg" width="30%" />
+</p>
+
+
 ### Citation
 ```
 @inproceedings{bollis2020weakly,
