@@ -56,9 +56,7 @@ See the [code](https://github.com/edsonbollis/Weakly-Supervised-Learning-Citrus-
 </p>
 
 ## Noiseless Citrus Pest Benchmark (NCPB)
-Files poiting to the NCPB image files are: 
-pests_train_no_blured_manual.csv
-pests_validation_no_blured_manual.csv
+Files pointing to the NCPB images are: ./CPB/pests_train_no_blured_manual.csv, ./CPB/pests_validation_no_blured_manual.csv
 
 ### Citation
 ```
